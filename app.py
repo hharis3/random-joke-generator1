@@ -7,3 +7,4 @@ def get_joke():
 
 if __name__ == "__main__":
     print(get_joke())
+You're right. 
